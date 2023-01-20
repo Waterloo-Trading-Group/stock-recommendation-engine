@@ -1,0 +1,12 @@
+msft.info
+
+msft.income_stmt
+
+msft.balance_sheet
+
+msft.cashflow
+
+msft.earnings
+
+msft.news
+
